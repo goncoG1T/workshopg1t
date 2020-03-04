@@ -1,0 +1,5 @@
+GIT - Linguagem , Ferramenta de versionamento baseada em linux 
+Criador: Lunis Torvalds.
+
+GITHUB - Repositório remoto.
+
